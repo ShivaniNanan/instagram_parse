@@ -18,8 +18,11 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://g.recordit.co/Em5slc7MeZ.gif ![image](https://user-images.githubusercontent.com/105828071/196067747-03484586-edec-4313-9391-d516c245d5f3.png)
-' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+<img src='http://g.recordit.co/Em5slc7MeZ.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+
+
 # Parstagram - Part I
 
 This is an Instagram clone with a custom Parse backend that allows a user to post photos and view a global photos feed.
